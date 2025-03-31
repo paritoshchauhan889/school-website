@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    /* Custom Styles */
+    .btn-custom {
+        background-color: #ff5722;
+        border-color: #ff5722;
+    }
+
+.btn-custom:hover {
+            background-color: #e64a19;
+            border-color: #e64a19;
+        }
+
+    .login-box {
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 80vh;">
+    <div class="login-box bg-white p-4 shadow rounded" style="width: 350px;">
+        <h4 class="text-center fw-bold">Login</h4>
+
+        <!-- Notification Alert (Hidden by Default) -->
+        <div id="alertBox" class="alert alert-danger d-none" role="alert">
+            Invalid email or password!
+        </div>
+
+        <!-- Login Form -->
+        <form id="loginForm">
+            <div class="mb-3">
+                <label for="email" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter email" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" placeholder="Enter password" required>
+            </div>
+            <button type="submit" class="btn w-100 text-white" style="background-color: #ff5722;">Login</button>
+            <div class="text-center mt-3">
+                <a asp-controller="Account" asp-action="ForgotPassword" class="text-decoration-none">Forgot Password?</a>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<script>
+    document.getElementById("loginForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const email = document.getElementById("email").value;
+        const password = document.getElementById("password").value;
+        const alertBox = document.getElementById("alertBox");
+
+        // Simple validation check
+        if (email === "admin@example.com" && password === "123456") {
+            alertBox.classList.remove("alert-danger");
+            alertBox.classList.add("alert-success");
+            alertBox.innerText = "Login successful!";
+            alertBox.classList.remove("d-none");
+        } else {
+            alertBox.classList.remove("alert-success");
+            alertBox.classList.add("alert-danger");
+            alertBox.innerText = "Invalid email or password!";
+            alertBox.classList.remove("d-none");
+        }
+    });
+</script>

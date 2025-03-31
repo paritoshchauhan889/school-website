@@ -1,0 +1,7 @@
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\School-website.exe
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\School-website.dll
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\School-website.deps.json
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\School-website.runtimeconfig.json
+C:\Users\DELL\Music\projectnet\School-website\School-website\obj\Release\net8.0\PubTmp\Out\School-website.pdb

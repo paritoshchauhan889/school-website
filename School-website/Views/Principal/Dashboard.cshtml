@@ -1,0 +1,72 @@
+﻿@{
+    Layout = "~/Views/Shared/_PrincipalLayout.cshtml";
+}
+
+
+<div class="d-flex flex-column flex-shrink-0 p-3" style="width: 280px;">
+    <!-- Sidebar Header -->
+    <a href="/" class="d-flex align-items-center mb-3 text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+        <span class="fs-5 fw-semibold">Principal Panel</span>
+    </a>
+
+    <!-- Sidebar Navigation -->
+    <ul class="nav nav-pills flex-column mb-auto overflow-hideen" style="height: 71vh;">
+        <!-- Dashboard -->
+        <li class="nav-item">
+            <a href="#" class="nav-link active">
+                <i class="bi bi-house-door me-2"></i> Dashboard
+            </a>
+        </li>
+
+        <!-- Management Section -->
+        <li>
+            <a href="#managementSubMenu" class="nav-link d-flex justify-content-between align-items-center" data-bs-toggle="collapse">
+                <span><i class="bi bi-people me-2"></i> Management</span>
+                <i class="bi bi-chevron-down"></i>
+            </a>
+            <div class="collapse ps-3" id="managementSubMenu">
+                <ul class="list-unstyled">
+                    <li><a href="#" class="nav-link text-dark">Teachers</a></li>
+                    <li><a href="#" class="nav-link text-dark">Students</a></li>
+                    <li><a href="#" class="nav-link text-dark">Classes</a></li>
+                </ul>
+            </div>
+        </li>
+
+        <!-- Reports -->
+        <li>
+            <a href="#reportsSubMenu" class="nav-link d-flex justify-content-between align-items-center" data-bs-toggle="collapse">
+                <span><i class="bi bi-file-bar-graph me-2"></i> Reports</span>
+                <i class="bi bi-chevron-down"></i>
+            </a>
+            <div class="collapse ps-3" id="reportsSubMenu">
+                <ul class="list-unstyled">
+                    <li><a href="#" class="nav-link text-dark">Attendance</a></li>
+                    <li><a href="#" class="nav-link text-dark">Grades</a></li>
+                </ul>
+            </div>
+        </li>
+
+        <!-- Settings -->
+        <li>
+            <a href="#settingsSubMenu" class="nav-link d-flex justify-content-between align-items-center" data-bs-toggle="collapse">
+                <span><i class="bi bi-gear me-2"></i> Settings</span>
+                <i class="bi bi-chevron-down"></i>
+            </a>
+            <div class="collapse ps-3" id="settingsSubMenu">
+                <ul class="list-unstyled">
+                    <li><a href="#" class="nav-link text-dark">Profile</a></li>
+                    <li><a href="#" class="nav-link text-dark">System</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+
+    <!-- Logout -->
+    <div class="border-top pt-3">
+        <a href="#" class="nav-link text-danger">
+            <i class="bi bi-box-arrow-right me-2"></i> Logout
+        </a>
+    </div>
+</div>
