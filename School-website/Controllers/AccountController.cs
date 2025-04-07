@@ -5,7 +5,11 @@ using School_website.Models;
 namespace School_website.Controllers
 {
     public class AccountController : Controller
-    {
+    {   
+        public IActionResult Register()
+        {
+            return View();
+        }
         public IActionResult Login()
         {
             return View();

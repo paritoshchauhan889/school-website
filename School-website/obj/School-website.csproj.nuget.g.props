@@ -367,4 +367,7 @@
       <Link>wwwroot\js\bootstrap.min.js.map</Link>
     </Content>
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.14\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.14\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
+  </ImportGroup>
 </Project>
