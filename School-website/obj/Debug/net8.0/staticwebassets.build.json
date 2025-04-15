@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XMUPZC28dvglvws6G0/Eu82bfUn1zQdLkr1xWuysV4A=",
+  "Hash": "ILWOfeU8IbxfGlnAGU7qC68qzAXz2j5RLOF/dn7p1co=",
   "Source": "School-website",
   "BasePath": "_content/School-website",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "School-website\\wwwroot",
       "Source": "School-website",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "Pattern": "**"
     }
@@ -20,7 +20,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -209,7 +209,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -230,7 +230,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -251,7 +251,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -272,7 +272,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -293,7 +293,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -314,7 +314,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -335,7 +335,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -356,7 +356,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -377,7 +377,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -419,7 +419,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -440,7 +440,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -461,7 +461,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -482,7 +482,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -503,7 +503,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -524,7 +524,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -545,7 +545,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -566,7 +566,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -587,7 +587,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -608,7 +608,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -629,7 +629,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -650,7 +650,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -671,7 +671,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -692,7 +692,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -713,7 +713,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -734,7 +734,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -755,7 +755,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -776,7 +776,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -797,7 +797,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -818,7 +818,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -839,7 +839,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -860,7 +860,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -881,7 +881,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -902,7 +902,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -923,7 +923,7 @@
       "Identity": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
       "SourceId": "School-website",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/School-website",
       "RelativePath": "School-website#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -959,13 +959,13 @@
       "Integrity": "cVXx8Qbs+AfPP2H4WCFIZNrvnpEFx+r6V/xo8vVt1nw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css"
+      "OriginalItemSpec": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
       "SourceId": "School-website",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/School-website",
       "RelativePath": "School-website#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -980,13 +980,13 @@
       "Integrity": "cVXx8Qbs+AfPP2H4WCFIZNrvnpEFx+r6V/xo8vVt1nw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css"
+      "OriginalItemSpec": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-10#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-12#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/company-9#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\company-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/gallery-8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\gallery-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/icon-fb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\icon-fb.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/icon-in#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\icon-in.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/icon-li#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\icon-li.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/icon-tw#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1487,10 +1487,31 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\icon-tw.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\logo.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.ico",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
+      "BasePath": "_content/School-website",
+      "RelativePath": "assets/Images/logo#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ilrj4bueh0",
+      "Integrity": "iv0psH+wL6GIecIk1ICTT40zJPfrNoGYfa6xApeUvxI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\logo.ico"
+    },
+    {
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.png",
+      "SourceId": "School-website",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1508,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\new.gif",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\new.gif",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/new#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -1529,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\new.gif"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/principal#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\principal.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/Signature#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1571,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\Signature.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/slider#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\slider.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/testimonial-1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/testimonial-2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "assets/Images/testimonial-3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Images\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\css\\site.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\css\\site.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1676,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\favicon.ico",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\favicon.ico",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1697,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\js\\site.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\js\\site.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1718,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2243,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2285,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2327,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2369,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2495,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2516,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2579,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2600,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2642,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "School-website",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\",
+      "ContentRoot": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\",
       "BasePath": "_content/School-website",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2666,7 +2687,7 @@
   "Endpoints": [
     {
       "Route": "assets/Images/company-1.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2703,7 +2724,7 @@
     },
     {
       "Route": "assets/Images/company-1.xbq4e3iv5s.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2748,7 +2769,7 @@
     },
     {
       "Route": "assets/Images/company-10.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2785,7 +2806,7 @@
     },
     {
       "Route": "assets/Images/company-10.xt9499iytu.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-10.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2851,7 @@
     },
     {
       "Route": "assets/Images/company-11.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2867,7 +2888,7 @@
     },
     {
       "Route": "assets/Images/company-11.riaaaxnro9.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-11.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2912,7 +2933,7 @@
     },
     {
       "Route": "assets/Images/company-12.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2949,7 +2970,7 @@
     },
     {
       "Route": "assets/Images/company-12.te7w0tmth5.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-12.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2994,7 +3015,7 @@
     },
     {
       "Route": "assets/Images/company-2.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3031,7 +3052,7 @@
     },
     {
       "Route": "assets/Images/company-2.stcv0hh5p4.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3076,7 +3097,7 @@
     },
     {
       "Route": "assets/Images/company-3.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3113,7 +3134,7 @@
     },
     {
       "Route": "assets/Images/company-3.xt9499iytu.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3158,7 +3179,7 @@
     },
     {
       "Route": "assets/Images/company-4.ga8agqcgag.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3203,7 +3224,7 @@
     },
     {
       "Route": "assets/Images/company-4.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3240,7 +3261,7 @@
     },
     {
       "Route": "assets/Images/company-5.10hbv1luwj.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3285,7 +3306,7 @@
     },
     {
       "Route": "assets/Images/company-5.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3322,7 +3343,7 @@
     },
     {
       "Route": "assets/Images/company-6.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,7 +3380,7 @@
     },
     {
       "Route": "assets/Images/company-6.wsjx09a59w.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3404,7 +3425,7 @@
     },
     {
       "Route": "assets/Images/company-7.exiqsv5kcg.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3449,7 +3470,7 @@
     },
     {
       "Route": "assets/Images/company-7.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3486,7 +3507,7 @@
     },
     {
       "Route": "assets/Images/company-8.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3523,7 +3544,7 @@
     },
     {
       "Route": "assets/Images/company-8.riaaaxnro9.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3568,7 +3589,7 @@
     },
     {
       "Route": "assets/Images/company-9.99y55n8kwf.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3613,7 +3634,7 @@
     },
     {
       "Route": "assets/Images/company-9.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\company-9.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3650,7 +3671,7 @@
     },
     {
       "Route": "assets/Images/gallery-1.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3687,7 +3708,7 @@
     },
     {
       "Route": "assets/Images/gallery-1.nf7rvl9nrh.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3732,7 +3753,7 @@
     },
     {
       "Route": "assets/Images/gallery-2.3qdh741lyk.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3777,7 +3798,7 @@
     },
     {
       "Route": "assets/Images/gallery-2.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3814,7 +3835,7 @@
     },
     {
       "Route": "assets/Images/gallery-3.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3851,7 +3872,7 @@
     },
     {
       "Route": "assets/Images/gallery-3.ti0256ulaq.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3896,7 +3917,7 @@
     },
     {
       "Route": "assets/Images/gallery-4.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3933,7 +3954,7 @@
     },
     {
       "Route": "assets/Images/gallery-4.uhh062qplh.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3978,7 +3999,7 @@
     },
     {
       "Route": "assets/Images/gallery-5.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4015,7 +4036,7 @@
     },
     {
       "Route": "assets/Images/gallery-5.otjdb7mfpf.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4060,7 +4081,7 @@
     },
     {
       "Route": "assets/Images/gallery-6.69ksqmyfh4.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4105,7 +4126,7 @@
     },
     {
       "Route": "assets/Images/gallery-6.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4142,7 +4163,7 @@
     },
     {
       "Route": "assets/Images/gallery-7.2bpbhbzno1.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4187,7 +4208,7 @@
     },
     {
       "Route": "assets/Images/gallery-7.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4224,7 +4245,7 @@
     },
     {
       "Route": "assets/Images/gallery-8.1rc73y9qqn.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4269,7 +4290,7 @@
     },
     {
       "Route": "assets/Images/gallery-8.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\gallery-8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4306,7 +4327,7 @@
     },
     {
       "Route": "assets/Images/icon-fb.ozx8l9aawd.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4351,7 +4372,7 @@
     },
     {
       "Route": "assets/Images/icon-fb.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-fb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4388,7 +4409,7 @@
     },
     {
       "Route": "assets/Images/icon-in.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4425,7 +4446,7 @@
     },
     {
       "Route": "assets/Images/icon-in.r7qqskfs1x.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-in.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4470,7 +4491,7 @@
     },
     {
       "Route": "assets/Images/icon-li.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4507,7 +4528,7 @@
     },
     {
       "Route": "assets/Images/icon-li.tu75t49zfe.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-li.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4552,7 +4573,7 @@
     },
     {
       "Route": "assets/Images/icon-tw.pdzy229ldi.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4597,7 +4618,7 @@
     },
     {
       "Route": "assets/Images/icon-tw.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\icon-tw.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4633,8 +4654,90 @@
       ]
     },
     {
+      "Route": "assets/Images/logo.ico",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iv0psH+wL6GIecIk1ICTT40zJPfrNoGYfa6xApeUvxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:07:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iv0psH+wL6GIecIk1ICTT40zJPfrNoGYfa6xApeUvxI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/logo.ilrj4bueh0.ico",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iv0psH+wL6GIecIk1ICTT40zJPfrNoGYfa6xApeUvxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:07:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ilrj4bueh0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/logo.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iv0psH+wL6GIecIk1ICTT40zJPfrNoGYfa6xApeUvxI="
+        }
+      ]
+    },
+    {
       "Route": "assets/Images/logo.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\logo.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4671,7 +4774,7 @@
     },
     {
       "Route": "assets/Images/logo.ta67q5vxzt.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\logo.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4716,7 +4819,7 @@
     },
     {
       "Route": "assets/Images/new.8vkp6rmp3n.gif",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\new.gif",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\new.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4761,7 +4864,7 @@
     },
     {
       "Route": "assets/Images/new.gif",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\new.gif",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\new.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4798,7 +4901,7 @@
     },
     {
       "Route": "assets/Images/principal.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4835,7 +4938,7 @@
     },
     {
       "Route": "assets/Images/principal.nimtfsvuql.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\principal.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4880,7 +4983,7 @@
     },
     {
       "Route": "assets/Images/Signature.mt7scsvasd.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4925,7 +5028,7 @@
     },
     {
       "Route": "assets/Images/Signature.png",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\Signature.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4962,7 +5065,7 @@
     },
     {
       "Route": "assets/Images/slider.77v8143l2w.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5007,7 +5110,7 @@
     },
     {
       "Route": "assets/Images/slider.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\slider.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5044,7 +5147,7 @@
     },
     {
       "Route": "assets/Images/testimonial-1.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5081,7 +5184,7 @@
     },
     {
       "Route": "assets/Images/testimonial-1.voz2b6j56j.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5126,7 +5229,7 @@
     },
     {
       "Route": "assets/Images/testimonial-2.i51u7eja89.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5171,7 +5274,7 @@
     },
     {
       "Route": "assets/Images/testimonial-2.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5208,7 +5311,7 @@
     },
     {
       "Route": "assets/Images/testimonial-3.1dqqarhbo5.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5253,7 +5356,7 @@
     },
     {
       "Route": "assets/Images/testimonial-3.jpg",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\assets\\Images\\testimonial-3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7914,7 +8017,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7951,7 +8054,7 @@
     },
     {
       "Route": "css/site.qt8b0os390.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7996,7 +8099,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8041,7 +8144,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9062,7 +9165,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9099,7 +9202,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9144,7 +9247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9181,7 +9284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9226,7 +9329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9263,7 +9366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9308,7 +9411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9345,7 +9448,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9390,7 +9493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9427,7 +9530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9472,7 +9575,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9509,7 +9612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9554,7 +9657,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9591,7 +9694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9636,7 +9739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9673,7 +9776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9718,7 +9821,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9755,7 +9858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9800,7 +9903,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9845,7 +9948,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9882,7 +9985,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9919,7 +10022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9964,7 +10067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10001,7 +10104,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10046,7 +10149,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10083,7 +10186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10128,7 +10231,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10165,7 +10268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10210,7 +10313,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10247,7 +10350,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10284,7 +10387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10321,7 +10424,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10366,7 +10469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10411,7 +10514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10456,7 +10559,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10501,7 +10604,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10538,7 +10641,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10583,7 +10686,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10620,7 +10723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10657,7 +10760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10694,7 +10797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10739,7 +10842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10784,7 +10887,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10829,7 +10932,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10866,7 +10969,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10911,7 +11014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10948,7 +11051,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10985,7 +11088,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11022,7 +11125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11067,7 +11170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11112,7 +11215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11149,7 +11252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11194,7 +11297,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11231,7 +11334,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11276,7 +11379,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11313,7 +11416,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11350,7 +11453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11395,7 +11498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11440,7 +11543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11477,7 +11580,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11559,7 +11662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11596,7 +11699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11641,7 +11744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11678,7 +11781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11723,7 +11826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11768,7 +11871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11805,7 +11908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11850,7 +11953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11887,7 +11990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11932,7 +12035,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11977,7 +12080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12014,7 +12117,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12059,7 +12162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12096,7 +12199,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12133,7 +12236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12178,7 +12281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12215,7 +12318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12260,7 +12363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12297,7 +12400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12334,7 +12437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12379,7 +12482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12424,7 +12527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12461,7 +12564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12506,7 +12609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12543,7 +12646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12580,7 +12683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12617,7 +12720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12662,7 +12765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12707,7 +12810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12752,7 +12855,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12789,7 +12892,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12834,7 +12937,7 @@
     },
     {
       "Route": "School-website.bundle.scp.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12855,7 +12958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 04:54:57 GMT"
+          "Value": "Tue, 15 Apr 2025 08:42:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12871,7 +12974,7 @@
     },
     {
       "Route": "School-website.f8itxu7dyy.bundle.scp.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School-website.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12892,7 +12995,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 04:54:57 GMT"
+          "Value": "Tue, 15 Apr 2025 08:42:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12916,7 +13019,7 @@
     },
     {
       "Route": "School-website.f8itxu7dyy.styles.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12937,7 +13040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 04:54:57 GMT"
+          "Value": "Tue, 15 Apr 2025 08:42:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12961,7 +13064,7 @@
     },
     {
       "Route": "School-website.styles.css",
-      "AssetFile": "C:\\Users\\DELL\\Music\\projectnet\\School-website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
+      "AssetFile": "D:\\work\\projects\\dot_net_projects\\School_Website\\School-website\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School-website.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12982,7 +13085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Mar 2025 04:54:57 GMT"
+          "Value": "Tue, 15 Apr 2025 08:42:10 GMT"
         },
         {
           "Name": "Cache-Control",

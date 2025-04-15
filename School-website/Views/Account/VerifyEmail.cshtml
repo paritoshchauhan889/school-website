@@ -1,0 +1,78 @@
+﻿@model School_website.ViewModels.VerifyEmailViewModal
+
+@{
+    ViewData["Title"] = "Verify Email";
+}
+
+<style>
+    .btn-custom {
+        background-color: #ff5722;
+        border-color: #ff5722;
+    }
+
+        .btn-custom:hover {
+            background-color: #e64a19;
+            border-color: #e64a19;
+        }
+
+    .login-box {
+        max-width: 400px;
+        margin: auto;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div class="container d-flex justify-content-center align-items-center" style="height: 80vh;">
+    <div class="login-box bg-white p-4 shadow rounded" style="width: 350px;">
+        <h4 class="text-center fw-bold">Verify Email</h4>
+
+        <!-- Notification Alert (Hidden by Default) -->
+        <div id="alertBox" class="alert alert-danger d-none" role="alert">
+            Invalid email or password!
+        </div>
+
+        <!-- Login Form -->
+        <form asp-action="VerifyEmail" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email address</label>
+                <input asp-for="Email" class="form-control" placeholder="Enter email" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn w-100 text-white btn-custom" value="Verify">Verify</button>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial.cshtml");
+    }
+}
+
+<script>
+    document.getElementById("loginForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const email = document.getElementById("email").value;
+        const password = document.getElementById("password").value;
+        const alertBox = document.getElementById("alertBox");
+
+        // Simulated validation (remove if using real server-side validation)
+        if (email === "admin@example.com" && password === "123456") {
+            alertBox.classList.remove("alert-danger");
+            alertBox.classList.add("alert-success");
+            alertBox.innerText = "Login successful!";
+            alertBox.classList.remove("d-none");
+        } else {
+            alertBox.classList.remove("alert-success");
+            alertBox.classList.add("alert-danger");
+            alertBox.innerText = "Invalid email or password!";
+            alertBox.classList.remove("d-none");
+        }
+    });
+</script>

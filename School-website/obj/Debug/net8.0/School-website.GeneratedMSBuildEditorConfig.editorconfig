@@ -9,137 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = School_website
 build_property.RootNamespace = School_website
-build_property.ProjectDir = C:\Users\DELL\Music\projectnet\School-website\
+build_property.ProjectDir = D:\work\projects\dot_net_projects\School_Website\School-website\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL\Music\projectnet\School-website
+build_property.MSBuildProjectDirectory = D:\work\projects\dot_net_projects\School_Website\School-website
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Account/ForgotPassword.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Account/Login.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Account/Register.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Account/ResetPassword.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Coordinator/Dashboard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Account/VerifyEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWZXJpZnlFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Coordinator/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/About.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Admission.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Admission.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/ContactUs.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Departments.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Departments.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBhcnRtZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Events.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Events.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Gallery.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Index.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/NoticeBoard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/NoticeBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpY2VCb2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/PrivacyPolicy.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/PrivacyPolicy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5UG9saWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/StudentLife.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/StudentLife.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50TGlmZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/TermsConditions.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/TermsConditions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtc0NvbmRpdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Home/Tutorial.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Home/Tutorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Principal/Dashboard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Principal/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpbmNpcGFsXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/Error.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_CoordinatorLayout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_CoordinatorLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29yZGluYXRvckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_PrincipalLayout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_PrincipalLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QcmluY2lwYWxMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_StaffLayout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_StaffLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdGFmZkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_StudentLayout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_StudentLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_TeacherLayout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_TeacherLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZWFjaGVyTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Staff/Dashboard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Staff/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Student/Dashboard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Student/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Teacher/Dashboard.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Teacher/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/_ViewImports.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/_ViewStart.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Music/projectnet/School-website/Views/Shared/_Layout.cshtml]
+[D:/work/projects/dot_net_projects/School_Website/School-website/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mi6yab0cyu

@@ -66,6 +66,7 @@ wwwroot\assets\Images\icon-fb.png
 wwwroot\assets\Images\icon-in.png
 wwwroot\assets\Images\icon-li.png
 wwwroot\assets\Images\icon-tw.png
+wwwroot\assets\Images\logo.ico
 wwwroot\assets\Images\logo.png
 wwwroot\assets\Images\new.gif
 wwwroot\assets\Images\principal.jpg
